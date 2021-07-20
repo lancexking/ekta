@@ -1,9 +1,5 @@
 # ekta
-/**
- *Submitted for verification at BscScan.com on 2021-05-21
-*/
 
-// SPDX-License-Identifier: GPLv3
 pragma solidity ^0.5.15;
 
 library SafeMath {
